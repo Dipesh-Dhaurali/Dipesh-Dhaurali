@@ -33,11 +33,6 @@
 ---
 
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipesh-Dhaurali&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 - 🌍 Portfolio: https://dipeshdhaurali.com.np/
