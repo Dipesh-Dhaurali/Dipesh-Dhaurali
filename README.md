@@ -32,11 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipesh-Dhaurali&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 Streak Stats
 
