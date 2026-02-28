@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dipesh Dhaurali  
 
-🎓 BIM Student | 💻 Django Developer | 🚀 Backend Enthusiast  
+🎓 Final Year BITM Student | 💻 Django Developer | 🚀 Backend Enthusiast  
 
 ---
 
@@ -27,7 +27,7 @@
 - Bootstrap
 
 ### 🗄️ Database
-- PostgreSQL
+- MYSQL
 - SQLite
 
 ---
@@ -45,6 +45,6 @@
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Portfolio: (Add your link)
+- 🌍 Portfolio: https://dipeshdhaurali.com.np/
 - 📷 Instagram: https://www.instagram.com/dipesh1dip1/
 - 🐦 Twitter: https://x.com/Dipesh_Dhaurali
